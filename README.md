@@ -6,6 +6,8 @@ This project implements a complete deep learning pipeline for multi-label classi
 
 The system is designed to process medical imaging datasets (e.g., chest X-rays) and predict multiple co-existing conditions using convolutional neural networks.
 
+<img width="837" height="570" alt="image" src="https://github.com/user-attachments/assets/53f978c5-32fc-46b2-9c5d-a3d799484269" />
+
 
 ## Problem Statement
 
